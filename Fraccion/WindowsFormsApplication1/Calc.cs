@@ -15,5 +15,10 @@ namespace WindowsFormsApplication1
         {
             return valor1 * valor2;
         }
+
+        public int div(int valor1, int valor2)
+        {
+            return valor1 / valor2;
+        }
     }
 }
