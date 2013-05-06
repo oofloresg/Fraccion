@@ -20,5 +20,11 @@ namespace WindowsFormsApplication1
         {
             return valor1 / valor2;
         }
+        
+        public int miltupo(int valor1, int valor2)
+        {
+            return valor1 * valor2;
+        }
+
     }
 }
