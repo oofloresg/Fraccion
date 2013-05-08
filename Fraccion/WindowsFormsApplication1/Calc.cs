@@ -7,14 +7,11 @@ namespace WindowsFormsApplication1
 {
     public class Calc
     {
-        public int sumar(int valor1, int valor2)
+        public int diagonal(int valor1, int valor2)
         {
-            return valor1 + valor2;
+            return valor1 / valor2;
         }
-        public int mult(int valor1, int valor2)
-        {
-            return valor1 * valor2;
-        }
+        
 
         public int div(int valor1, int valor2)
         {
